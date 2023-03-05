@@ -35,7 +35,7 @@
 - 수집 사이트: 카카오맵 "https://map.kakao.com/", 
 - 목적: 여러 지역 맛집 데이터 가져오기
 
-2. 전처리
+2. 전처리 일부
 
 <img src="https://user-images.githubusercontent.com/104770890/222648245-c174cf6f-c729-4f16-b726-bad8e732eac4.png" width="650" height="300"/>
 
