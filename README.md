@@ -1,5 +1,3 @@
-# Heena's Data Analysis Package
-
 ## 서브 프로젝트1
 ---
 
